@@ -1,0 +1,6 @@
+streamlit
+pandas
+yfinance
+requests
+beautifulsoup4
+pyinstaller
